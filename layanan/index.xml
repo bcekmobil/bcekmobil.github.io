@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Layanan on Bcek Spesialis Kaki-Kaki Mobil</title>
-		<link>http://localhost:1313/layanan/</link>
+		<link>http://bcekmobil.github.io/layanan/</link>
 		<description>Recent content in Layanan on Bcek Spesialis Kaki-Kaki Mobil</description>
 		<generator>Hugo</generator>
 		<language>id</language>
@@ -12,47 +12,47 @@
 		
 			<lastBuildDate>Sun, 14 Jun 2026 11:39:46 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/layanan/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://bcekmobil.github.io/layanan/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Service Kaki - Kaki</title>
-				<link>http://localhost:1313/layanan/service-kaki-kaki/</link>
+				<link>http://bcekmobil.github.io/layanan/service-kaki-kaki/</link>
 				<pubDate>Sun, 14 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/service-kaki-kaki/</guid>
+				<guid>http://bcekmobil.github.io/layanan/service-kaki-kaki/</guid>
 				<description>Sudah Termasuk TIEROD, LONG TIEROD, BALL JOINT, dan LINK STABIL</description>
 			</item>
 			<item>
 				<title>Service Rack Steer</title>
-				<link>http://localhost:1313/layanan/service-racksteer/</link>
+				<link>http://bcekmobil.github.io/layanan/service-racksteer/</link>
 				<pubDate>Sun, 14 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/service-racksteer/</guid>
+				<guid>http://bcekmobil.github.io/layanan/service-racksteer/</guid>
 				<description>Mengatasi masalah kemudi setir berat atau bergetar Ciri umumnya bunyi klotok.</description>
 			</item>
 			<item>
 				<title>Service Power Steering</title>
-				<link>http://localhost:1313/layanan/service-power-steering/</link>
+				<link>http://bcekmobil.github.io/layanan/service-power-steering/</link>
 				<pubDate>Wed, 10 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/service-power-steering/</guid>
+				<guid>http://bcekmobil.github.io/layanan/service-power-steering/</guid>
 				<description>Ganti Seal, Poles As, Minyak, Perbaikan menyesuaikan kondisi &amp;amp; tipe merk mobil.</description>
 			</item>
 			<item>
 				<title>Service Shock</title>
-				<link>http://localhost:1313/layanan/service-shockbreaker/</link>
+				<link>http://bcekmobil.github.io/layanan/service-shockbreaker/</link>
 				<pubDate>Tue, 09 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/service-shockbreaker/</guid>
+				<guid>http://bcekmobil.github.io/layanan/service-shockbreaker/</guid>
 				<description>Servis shockbreaker / Shock absorber (peredam kejut) mobil, solusi hemat dibandingkan mengganti unit baru.</description>
 			</item>
 			<item>
 				<title>Service Rem</title>
-				<link>http://localhost:1313/layanan/service-rem/</link>
+				<link>http://bcekmobil.github.io/layanan/service-rem/</link>
 				<pubDate>Thu, 11 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/service-rem/</guid>
+				<guid>http://bcekmobil.github.io/layanan/service-rem/</guid>
 				<description>Ganti kampas rem, ganti minyak rem, bubut disc brake, serta perawatan sistem pengereman agar tetap aman dan responsif.</description>
 			</item>
 			<item>
 				<title>Spooring 3D &amp; Balancing Nitrogen</title>
-				<link>http://localhost:1313/layanan/spooring-balancing/</link>
+				<link>http://bcekmobil.github.io/layanan/spooring-balancing/</link>
 				<pubDate>Mon, 08 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/layanan/spooring-balancing/</guid>
+				<guid>http://bcekmobil.github.io/layanan/spooring-balancing/</guid>
 				<description>Spooring 3D, balancing, nitrogen, dan pengecekan kondisi ban untuk menjaga kenyamanan berkendara.</description>
 			</item>
 	</channel>

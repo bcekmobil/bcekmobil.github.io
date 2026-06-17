@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Kahfi on Bcek Spesialis Kaki-Kaki Mobil</title>
-		<link>http://localhost:1313/tags/kahfi/</link>
+		<link>http://bcekmobil.github.io/tags/kahfi/</link>
 		<description>Recent content in Kahfi on Bcek Spesialis Kaki-Kaki Mobil</description>
 		<generator>Hugo</generator>
 		<language>id</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 13 Jun 2026 11:39:46 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/kahfi/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://bcekmobil.github.io/tags/kahfi/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Launching Website</title>
-				<link>http://localhost:1313/blog/2026/06/13/peluncuran-website/</link>
+				<link>http://bcekmobil.github.io/blog/2026/06/13/peluncuran-website/</link>
 				<pubDate>Sat, 13 Jun 2026 11:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/blog/2026/06/13/peluncuran-website/</guid>
+				<guid>http://bcekmobil.github.io/blog/2026/06/13/peluncuran-website/</guid>
 				<description>Peresmian Website Bcek.com?</description>
 			</item>
 			<item>
 				<title>Test Artikel</title>
-				<link>http://localhost:1313/blog/2026/06/10/ini-artikel/</link>
+				<link>http://bcekmobil.github.io/blog/2026/06/10/ini-artikel/</link>
 				<pubDate>Wed, 10 Jun 2026 13:39:46 +0200</pubDate>
-				<guid>http://localhost:1313/blog/2026/06/10/ini-artikel/</guid>
+				<guid>http://bcekmobil.github.io/blog/2026/06/10/ini-artikel/</guid>
 				<description>Test Artikel, Bcek Andara dan Bcek Kahfi</description>
 			</item>
 	</channel>
