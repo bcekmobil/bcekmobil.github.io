@@ -2,18 +2,25 @@
 
 > Bcek Spesialis Kaki-Kaki Mobil
 
+- [Galeri Kami](https://bcekmobil.github.io/galeri/): Portfolio Aktivitas B-CEK.
 - [Tentang Bcek](https://bcekmobil.github.io/tentang-kami/): B-cek adalah bengkel spesialis kaki-kaki, rack steer, rem, power steering dan spooring 3D
 - [Halaman Tidak Ditemukan](https://bcekmobil.github.io/404/): The page you're looking for doesn’t exist or has moved. Check the URL, use the navigation to browse sections, or return to the homepage.
 - [Hubungi Kami](https://bcekmobil.github.io/kontak/): Hubungi B-CEK Auto Care untuk konsultasi service mobil, kaki-kaki, power steering, dan layanan lainnya.
-- [Blog](https://bcekmobil.github.io/blog/): Artikel Kami
+- [Artikel](https://bcekmobil.github.io/blog/): Artikel Kami
 - [Layanan Kami](https://bcekmobil.github.io/layanan/): Layanan Kami
 
-## Blog
+## Galeri Kami
+
+> Portfolio Aktivitas B-CEK.
+
+- [Service Rack Steer](https://bcekmobil.github.io/galeri/service/)
+
+## Artikel
 
 > Artikel Kami
 
 - [Apa Sih Kegunaan Service Kaki-Kaki Mobil? Kenali Fungsinya](https://bcekmobil.github.io/blog/apa-sih-kegunaan-service-kaki-kaki-mobil-kenali-fungsinya/): Service kaki-kaki mobil penting untuk menjaga kenyamanan, kestabilan, dan keamanan berkendara. Kenali fungsi komponen kaki-kaki serta tanda mobil perlu diperbaiki.
-- [Example Post](https://bcekmobil.github.io/blog/example-post/): Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features.
+- [Kegunaan Service shock breaker](https://bcekmobil.github.io/blog/kegunaan-service-shock-breaker/): Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features.
 
 ## Layanan Kami
 
@@ -25,34 +32,4 @@
 - [Service Rem Mobil](https://bcekmobil.github.io/layanan/service-rem/): Service rem mobil untuk menjaga sistem pengereman tetap aman, responsif, dan nyaman digunakan dalam berbagai kondisi perjalanan.
 - [Service Shockbreaker Mobil](https://bcekmobil.github.io/layanan/service-shockbreaker/): Service shockbreaker (shock absorber) mobil untuk mengembalikan kenyamanan berkendara tanpa harus mengganti unit baru.
 - [Spooring 3D & Balancing Nitrogen](https://bcekmobil.github.io/layanan/spooring-balancing/): Spooring 3D, balancing, dan pengisian nitrogen untuk menjaga kestabilan mobil, kenyamanan berkendara, dan umur ban lebih awet.
-
-### Service Kaki - Kaki
-
-> Cari tahu kegunaan service kaki-kaki mobil, tanda kerusakan, dan komponen yang perlu diperiksa agar mobil tetap nyaman dan aman.
-
-
-### Service Rack Steer
-
-> Service Rack Steer mobil untuk mengatasi masalah setir berat, bunyi klotok, dan getaran agar sistem kemudi kembali nyaman.
-
-
-### Service Power Steering
-
-> Service Power Steering Hidrolik (HPS) & Elektrik (EPS) untuk mengembalikan performa sistem kemudi mobil agar lebih nyaman dan aman.
-
-
-### Service Rem Mobil
-
-> Service rem mobil untuk menjaga sistem pengereman tetap aman, responsif, dan nyaman digunakan dalam berbagai kondisi perjalanan.
-
-
-### Service Shockbreaker Mobil
-
-> Service shockbreaker (shock absorber) mobil untuk mengembalikan kenyamanan berkendara tanpa harus mengganti unit baru.
-
-
-### Spooring 3D & Balancing Nitrogen
-
-> Spooring 3D, balancing, dan pengisian nitrogen untuk menjaga kestabilan mobil, kenyamanan berkendara, dan umur ban lebih awet.
-
 
