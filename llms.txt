@@ -13,7 +13,8 @@
 
 > Portfolio Aktivitas B-CEK.
 
-- [Service Rack Steer](https://bcekmobil.github.io/galeri/service/)
+- [Fasilitas Service](https://bcekmobil.github.io/galeri/fasilitas/)
+- [Service Portfolio](https://bcekmobil.github.io/galeri/service/)
 
 ## Artikel
 
