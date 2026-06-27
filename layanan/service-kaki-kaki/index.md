@@ -24,4 +24,4 @@ Sebelum pengerjaan dilakukan, teknisi kami akan melakukan pengecekan menyeluruh 
 
 Apabila kendaraan mengalami gejala seperti setir tidak stabil, bunyi pada kaki-kaki, getaran saat berkendara, atau tidak dapat dilakukan spooring dengan normal, silakan hubungi tim kami untuk mendapatkan konsultasi dan penanganan yang tepat.
 
-Hubungi kami melalui WhatsApp atau telepon untuk informasi lebih lanjut dan reservasi layanan.
+[Hubungi kami](/kontak) melalui WhatsApp atau [telepon](#phoneToggleDesktop) untuk informasi lebih lanjut dan reservasi layanan.

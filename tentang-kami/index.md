@@ -1,15 +1,10 @@
-# Tentang BcekB-cek adalah bengkel spesialis kaki-kaki, rack steer, rem, power steering dan spooring 3D 
+# Tentang BcekKami melayani pemeriksaan, perbaikan, dan rekondisi kaki-kaki mobil dengan analisa sesuai kondisi kendaraan. Tes jalan, cek fisik sebelum & sesudah perbaikan, estimasi biaya transparan, jasa pemasangan sparepart, spooring, balancing, dan nitrogen.
 
-{{< callout note >}} Kami memiliki 2 cabang yaitu kahfi dan andara. {{< /callout >}}
+{{< callout context="note" title="Lokasi" icon="outline/location-pin">}} Kami memiliki 2 cabang yaitu kahfi dan andara. {{< /callout >}}
 
-- Melayani berbagai merk dan tipe kendaraan.
-- Diagnosa dilakukan berdasarkan kondisi aktual kendaraan.
-- Transparansi pengerjaan dan estimasi biaya.
-- Solusi perbaikan yang disesuaikan dengan tingkat kerusakan.
-- Garansi pengerjaan sesuai ketentuan bengkel.
-- Pengerjaan dapat ditunggu sesuai antrean.
+Nikmati layanan dengan garansi service & sparepart, ruang tunggu nyaman, serta pengerjaan oleh mekanik berpengalaman untuk menjaga kendaraan tetap aman & nyaman.
 
 {{< card-grid >}}
-{{< link-card title="Semua Layanan" href="/layanan/" >}}
-{{< link-card title="Kontak" href="/kontak/" >}}
+{{< link-card title="Layanan Kami" href="/layanan/" >}}
+{{< link-card title="Konsultasi Sekarang" href="/kontak/" >}}
 {{< /card-grid >}}

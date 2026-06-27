@@ -3,7 +3,7 @@
 > Bcek Spesialis Kaki-Kaki Mobil
 
 - [Galeri Kami](https://bcekmobil.github.io/galeri/): Portfolio Aktivitas B-CEK.
-- [Tentang Bcek](https://bcekmobil.github.io/tentang-kami/): B-cek adalah bengkel spesialis kaki-kaki, rack steer, rem, power steering dan spooring 3D
+- [Tentang Bcek](https://bcekmobil.github.io/tentang-kami/): B-CEK Spesialis kaki-kaki, rack steer, rem, power steering dan spooring 3D
 - [Halaman Tidak Ditemukan](https://bcekmobil.github.io/404/): The page you're looking for doesn’t exist or has moved. Check the URL, use the navigation to browse sections, or return to the homepage.
 - [Hubungi Kami](https://bcekmobil.github.io/kontak/): Hubungi B-CEK Auto Care untuk konsultasi service mobil, kaki-kaki, power steering, dan layanan lainnya.
 - [Artikel](https://bcekmobil.github.io/blog/): Artikel Kami
@@ -15,7 +15,7 @@
 > Portfolio Aktivitas B-CEK.
 
 - [Fasilitas Service](https://bcekmobil.github.io/galeri/fasilitas/)
-- [Service Portfolio](https://bcekmobil.github.io/galeri/service/)
+- [Service](https://bcekmobil.github.io/galeri/service/)
 
 ## Artikel
 
